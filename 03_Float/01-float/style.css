@@ -26,6 +26,15 @@ h1, h2, h3 {
  tmava      #34495e
 */
 
+.vlevo {
+    float: left;
+    margin-right: 15px;
+}
+
+.vpravo {
+    float: right;
+    margin-left: 15px;
+}
 
 img {
     float: left;
@@ -36,6 +45,6 @@ h2 {
 }
 
 section {
-    background-color: greenyellow;
+    background-color: rgb(136, 177, 73);
     overflow: auto;
 }
